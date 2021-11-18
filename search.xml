@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>picture</title>
+      <link href="/2021/11/18/picture/"/>
+      <url>/2021/11/18/picture/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo博客中插入图片</title>
+      <link href="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/"/>
+      <url>/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</url>
+      
+        <content type="html"><![CDATA[<!--  more  --><h1 id="修改配置文件"><a href="#修改配置文件" class="headerlink" title="修改配置文件"></a>修改配置文件</h1><p>1.修改文件_config.yml里的post_folder:这个选项设置为ture</p><h1 id="安装插件hexo-asset-image"><a href="#安装插件hexo-asset-image" class="headerlink" title="安装插件hexo-asset-image"></a>安装插件hexo-asset-image</h1><ul><li>GitHub地址<a href="https://github.com/xcodebuild/hexo-asset-image">hexo-asset-image</a></li><li>npm安装(需要提前安装Node.js)</li></ul><p>npm install <a href="https://github.com/CodeFalling/hexo-asset-image">https://github.com/CodeFalling/hexo-asset-image</a> –save<br><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/1.jpg"></p><p>注意：不要使用 npm install hexo-asset-image –save 这个命令 这个版本号不对<br><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/3.jpg"></p><h1 id="版本差异"><a href="#版本差异" class="headerlink" title="版本差异"></a>版本差异</h1><h2 id="0-0-5版本"><a href="#0-0-5版本" class="headerlink" title="0.0.5版本"></a>0.0.5版本</h2><p><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/2.jpg"></p><h2 id="1-0-0版本"><a href="#1-0-0版本" class="headerlink" title="1.0.0版本"></a>1.0.0版本</h2><p><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/4.jpg"></p><h1 id="在md中书写格式-相对路径"><a href="#在md中书写格式-相对路径" class="headerlink" title="在md中书写格式(相对路径)"></a>在md中书写格式(相对路径)</h1><p>在md使用这种格式进行引用图片</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![](/Hexo博客中插入图片/4.jpg)</span><br></pre></td></tr></table></figure><p>注意：这是使用的是”/“</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>js学习文档</title>
+      <link href="/2021/11/18/js%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3/"/>
+      <url>/2021/11/18/js%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/11/18/js%E5%AD%A6%E4%B9%A0%E6%96%87%E6%A1%A3/1.jpg" alt="1"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> js </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> js </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo博客基本操作</title>
+      <link href="/2021/11/17/Hexo%E5%8D%9A%E5%AE%A2%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/"/>
+      <url>/2021/11/17/Hexo%E5%8D%9A%E5%AE%A2%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hexo博客基本操作"><a href="#Hexo博客基本操作" class="headerlink" title="Hexo博客基本操作"></a>Hexo博客基本操作</h1> <span id="more"></span><h2 id="hexo-添加图片插件"><a href="#hexo-添加图片插件" class="headerlink" title="hexo 添加图片插件"></a>hexo 添加图片插件</h2><ul><li><p>hexo 添加文字链接<br><a href="%E8%BF%99%E9%87%8C%E5%A1%AB%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80">这里填文字</a></p></li><li><p>在_config.yml配置文件中，修改为 post_asset_folder: true，然后新建一篇文章<br>hexo new post 文档名<br><img src="/2021/11/17/Hexo%E5%8D%9A%E5%AE%A2%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/1.jpg" alt="1"><br>这个时候会出现一个ceshi.md 和 ceshi的文件夹，然后就可以在文章中引用了 </p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo d 报错问题</title>
+      <link href="/2021/11/16/hexo%20d%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98/"/>
+      <url>/2021/11/16/hexo%20d%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[ <span id="more"></span><p>产生原因：一般是这是因为服务器的SSL证书没有经过第三方机构的签署，所以才报错<br>参考网上解决办法：解除ssl验证后，再上传就OK了<br><code>git config --global http.sslVerify &quot;fals&quot;</code></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Typora的使用方法</title>
+      <link href="/2021/11/16/Typora%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
+      <url>/2021/11/16/Typora%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Typora的使用方法"><a href="#Typora的使用方法" class="headerlink" title="Typora的使用方法"></a>Typora的使用方法</h1> <span id="more"></span><h2 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 一级标题</span></span><br><span class="line"><span class="comment">## 二级标题</span></span><br><span class="line"><span class="comment">### 三级标题</span></span><br><span class="line"><span class="comment">#### 四级标题</span></span><br><span class="line"><span class="comment">##### 五级标题</span></span><br><span class="line"><span class="comment">###### 六级标题</span></span><br></pre></td></tr></table></figure><h2 id="2-加粗，斜体，下划线，高亮，删除线"><a href="#2-加粗，斜体，下划线，高亮，删除线" class="headerlink" title="2.加粗，斜体，下划线，高亮，删除线"></a>2.加粗，斜体，下划线，高亮，删除线</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">*这是斜体* 或 _这也是斜体_ </span><br><span class="line">**这是粗体**</span><br><span class="line">***这是加粗斜体***</span><br><span class="line">~~这是删除线~~</span><br></pre></td></tr></table></figure><p>效果：<br><em>这是斜体</em> 或 <em>这也是斜体</em><br><strong>这是粗体</strong><br><em><strong>这是加粗斜体</strong></em><br><del>这是删除线</del></p><h2 id="3-列表"><a href="#3-列表" class="headerlink" title="3.列表"></a>3.列表</h2><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">* 无序列表项1</span><br><span class="line">+ 无序列表项2</span><br><span class="line">- 无序列表项3</span><br></pre></td></tr></table></figure><p>效果：</p><ul><li>无序列表项1</li></ul><ul><li>无序列表项2</li></ul><ul><li>无序列表项3</li></ul><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1.有序列表项1</span><br><span class="line">2.有序列表项2</span><br><span class="line">3.有序列表项3</span><br></pre></td></tr></table></figure><p>效果：<br>1.有序列表项1<br>2.有序列表项2<br>3.有序列表项3</p><h2 id="4-插入图片"><a href="#4-插入图片" class="headerlink" title="4.插入图片"></a>4.插入图片</h2><p>在 Hexo 中插入图片，首先需要将图片放在 source/images/ 文件夹下，然后如下方式进行插入：</p><figure class="highlight jsx"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![](<span class="regexp">/images/</span>hexod.jpg)</span><br></pre></td></tr></table></figure><h2 id="5-表格"><a href="#5-表格" class="headerlink" title="5.表格"></a>5.表格</h2><figure class="highlight ruby"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="params">| 表头1|</span>表头<span class="number">2</span><span class="params">|表头3|</span>表头<span class="number">4</span></span><br><span class="line"><span class="params">|-|</span> <span class="symbol">:-</span> <span class="params">| :-: |</span> -: <span class="params">|</span></span><br><span class="line"><span class="params">|</span>默认左对齐<span class="params">|左对齐|</span>居中对其<span class="params">|右对齐|</span></span><br><span class="line"><span class="params">|默认左对齐|</span>左对齐<span class="params">|居中对其|</span>右对齐<span class="params">|</span></span><br><span class="line"><span class="params">|</span>默认左对齐<span class="params">|左对齐|</span>居中对其<span class="params">|右对齐|</span></span><br></pre></td></tr></table></figure><p>效果：<br>| 表头1|表头2|表头3|表头4<br>|-| :- | :-: | -: |<br>|默认左对齐|左对齐|居中对其|右对齐|<br>|默认左对齐|左对齐|居中对其|右对齐|<br>|默认左对齐|左对齐|居中对其|右对齐|<br> <!-- more --></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
