@@ -8,7 +8,7 @@
       <link href="/2021/11/18/picture/"/>
       <url>/2021/11/18/picture/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p><img src="/2021/11/18/picture/2.jpg"></p><!--  more -->]]></content>
       
       
       
@@ -21,7 +21,7 @@
       <link href="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/"/>
       <url>/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</url>
       
-        <content type="html"><![CDATA[<!--  more  --><h1 id="修改配置文件"><a href="#修改配置文件" class="headerlink" title="修改配置文件"></a>修改配置文件</h1><p>1.修改文件_config.yml里的post_folder:这个选项设置为ture</p><h1 id="安装插件hexo-asset-image"><a href="#安装插件hexo-asset-image" class="headerlink" title="安装插件hexo-asset-image"></a>安装插件hexo-asset-image</h1><ul><li>GitHub地址<a href="https://github.com/xcodebuild/hexo-asset-image">hexo-asset-image</a></li><li>npm安装(需要提前安装Node.js)</li></ul><p>npm install <a href="https://github.com/CodeFalling/hexo-asset-image">https://github.com/CodeFalling/hexo-asset-image</a> –save<br><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/1.jpg"></p><p>注意：不要使用 npm install hexo-asset-image –save 这个命令 这个版本号不对<br><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/3.jpg"></p><h1 id="版本差异"><a href="#版本差异" class="headerlink" title="版本差异"></a>版本差异</h1><h2 id="0-0-5版本"><a href="#0-0-5版本" class="headerlink" title="0.0.5版本"></a>0.0.5版本</h2><p><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/2.jpg"></p><h2 id="1-0-0版本"><a href="#1-0-0版本" class="headerlink" title="1.0.0版本"></a>1.0.0版本</h2><p><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/4.jpg"></p><h1 id="在md中书写格式-相对路径"><a href="#在md中书写格式-相对路径" class="headerlink" title="在md中书写格式(相对路径)"></a>在md中书写格式(相对路径)</h1><p>在md使用这种格式进行引用图片</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![](/Hexo博客中插入图片/4.jpg)</span><br></pre></td></tr></table></figure><p>注意：这是使用的是”/“</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="修改配置文件"><a href="#修改配置文件" class="headerlink" title="修改配置文件"></a>修改配置文件</h1><p>1.修改文件_config.yml里的post_folder:这个选项设置为ture</p><!--  more  --><h1 id="安装插件hexo-asset-image"><a href="#安装插件hexo-asset-image" class="headerlink" title="安装插件hexo-asset-image"></a>安装插件hexo-asset-image</h1><ul><li>GitHub地址<a href="https://github.com/xcodebuild/hexo-asset-image">hexo-asset-image</a></li><li>npm安装(需要提前安装Node.js)</li></ul><p>npm install <a href="https://github.com/CodeFalling/hexo-asset-image">https://github.com/CodeFalling/hexo-asset-image</a> –save<br><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/1.jpg"></p><p>注意：不要使用 npm install hexo-asset-image –save 这个命令 这个版本号不对<br><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/3.jpg"></p><h1 id="版本差异"><a href="#版本差异" class="headerlink" title="版本差异"></a>版本差异</h1><h2 id="0-0-5版本"><a href="#0-0-5版本" class="headerlink" title="0.0.5版本"></a>0.0.5版本</h2><p><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/2.jpg"></p><h2 id="1-0-0版本"><a href="#1-0-0版本" class="headerlink" title="1.0.0版本"></a>1.0.0版本</h2><p><img src="/2021/11/18/Hexo%E5%8D%9A%E5%AE%A2%E4%B8%AD%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/4.jpg"></p><h1 id="在md中书写格式-相对路径"><a href="#在md中书写格式-相对路径" class="headerlink" title="在md中书写格式(相对路径)"></a>在md中书写格式(相对路径)</h1><p>在md使用这种格式进行引用图片</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![](/Hexo博客中插入图片/4.jpg)</span><br></pre></td></tr></table></figure><p>注意：这是使用的是”/“</p>]]></content>
       
       
       <categories>
@@ -90,7 +90,7 @@
       <link href="/2021/11/16/hexo%20d%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98/"/>
       <url>/2021/11/16/hexo%20d%E6%8A%A5%E9%94%99%E9%97%AE%E9%A2%98/</url>
       
-        <content type="html"><![CDATA[ <span id="more"></span><p>产生原因：一般是这是因为服务器的SSL证书没有经过第三方机构的签署，所以才报错<br>参考网上解决办法：解除ssl验证后，再上传就OK了<br><code>git config --global http.sslVerify &quot;fals&quot;</code></p>]]></content>
+        <content type="html"><![CDATA[<p>产生原因：一般是这是因为服务器的SSL证书没有经过第三方机构的签署，所以才报错<br>参考网上解决办法：解除ssl验证后，再上传就OK了<br><code>git config --global http.sslVerify &quot;fals&quot;</code><br> <span id="more"></span></p>]]></content>
       
       
       <categories>
